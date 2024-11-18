@@ -1,7 +1,5 @@
 #A Higgs
 # SETI Data visualizer
-#
-""""visualization tool utilizing API data from Seti and/or local weather"""
 
 import matplotlib.pyplot as plt
 
